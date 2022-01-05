@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Иван Димитров</h1>
 
--🌱 I’m currently learning Python and Perl.
--🔭 I’m currently working as a back-end Perl developer.
+-🌱 I’m currently learning Python.
+-🔭 I’m currently working as a Python developer.
 -📫 How to reach me: **ivan.vanir@gmail.com**
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziruzavar&layout=compact" height="165px" >
