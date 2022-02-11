@@ -1,6 +1,6 @@
 <img width="100%" src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/200.gif">
 
-<h1 align="center">Hi 👋, I'm Иван Димитров</h1>
+<h1 align="center">Hi 👋, I'm Ivan Dimitrov</h1>
 
 -🌱 I’m currently learning Python.
 -🔭 I’m currently working as a Python developer.
