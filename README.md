@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ivan Dimitrov</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-IvanDimitrov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-dimitrov-879680127/)](https://www.linkedin.com/in/ivan-dimitrov-879680127/)[![Gmail Badge](https://img.shields.io/badge/-ivan.vanir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.vanir@gmail.com)](mailto:ivan.vanir@gmail.com)[![Twitter Badge](https://img.shields.io/badge/-@ziruzavar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ziruzavar)](https://twitter.com/ziruzavar)
+[![](https://img.shields.io/badge/-EnskAI-yellow?style=flat-square&link=https://ensk.ai/)](https://ensk.ai/)[![Linkedin Badge](https://img.shields.io/badge/-IvanDimitrov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-dimitrov-879680127/)](https://www.linkedin.com/in/ivan-dimitrov-879680127/)[![Gmail Badge](https://img.shields.io/badge/-ivan.vanir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.vanir@gmail.com)](mailto:ivan.vanir@gmail.com)[![Twitter Badge](https://img.shields.io/badge/-@ziruzavar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ziruzavar)](https://twitter.com/ziruzavar)
 
 -🔭 I’m currently working as a Python developer - <a href="Ensk.ai">EnskAI</a> .
+---
 -⚽ Doing stuff with Data for Footballers, Clubs && Agencies:
 
 ---
