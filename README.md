@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Ivan Dimitrov</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ivan-dimitrov-879680127/"><img src="![Ivan Dimitrov](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
-<a href="https://discord.com/users/178939971925704705"><img src="![ziruzavar#9550](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)"/></a>
-<a href="ivan.vanir@gmail.com"><img src="![ivan.vanir@gmail.com](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-ivan-dimitrov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-dimitrov-879680127/)](https://www.linkedin.com/in/ivan-dimitrov-879680127/)
+[![Gmail Badge](https://img.shields.io/badge/-ivan.vanir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.vanir@gmail.com)](mailto:ivan.vanir@gmail.com)
 
 -🔭 I’m currently working as a Python developer.
 -📫 How to reach me: **ivan.vanir@gmail.com**
