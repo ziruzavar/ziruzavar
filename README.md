@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ivan Dimitrov</h1>
 
-<p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-ivan-dimitrov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-dimitrov-879680127/)](https://www.linkedin.com/in/ivan-dimitrov-879680127/)
-[![Gmail Badge](https://img.shields.io/badge/-ivan.vanir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.vanir@gmail.com)](mailto:ivan.vanir@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ivan-dimitrov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-dimitrov-879680127/)](https://www.linkedin.com/in/ivan-dimitrov-879680127/)[![Gmail Badge](https://img.shields.io/badge/-ivan.vanir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivan.vanir@gmail.com)](mailto:ivan.vanir@gmail.com)
 
 -🔭 I’m currently working as a Python developer.
 -📫 How to reach me: **ivan.vanir@gmail.com**
